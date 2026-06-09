@@ -4,6 +4,10 @@
 
 ## Problema 9
 
+### Ecuación Lindblad
+
+### Simulación Monte Carlo
+
 ## Problema 10
 
 En el archivo Problema10.py se encuentra el archivo correspondiente a este problema.

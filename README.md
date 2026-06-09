@@ -1,6 +1,19 @@
 # ExamenInComCuantica
 
+En el archivo Problema6.py se encuentra el programa correspondiente a este problema.
+
+
+
 ## Problema 6
+
+Programa para hallar matriz de enlaces de entrelazamiento de dos estados puros caracterizados en wavefunction_1.txt y wavefunction_2.txt. El programa pide seleccionar el estado, así la opción 1 se corresponde al primer archivo de datos y la opción 2 al segundo.
+
+Además, se hallan los contornos de entrelazamiento para un bloque seleccionado y se muestran los contornos de entrelazamiento propios de estado rainbow y dimer de fermiones libres según la opción escogida.
+
+El bloque tiene formato [q1 q2 q3 q4 q5 q6 q7 q8], donde cada qi debe ser 1 o -1, 1 si el qubit se considera y -1 si no es el caso.
+
+La matriz de enlaces de entrelazamiento se genera en el archivo MatrizEnlaces.txt y la matriz distancia en el archivo distancia.txt.
+
 
 ## Problema 9
 

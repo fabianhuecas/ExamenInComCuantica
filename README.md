@@ -23,6 +23,8 @@ Los valores de fidelidad con respecto al estado fundamental se guardaron en el a
 
 En el archivo Problema9-2.py se encuentra el programa correspondiente a este problema.
 
+Este programa desarrolla la evolucion temporal del sistema de un spin con hamiltoniano H = G sigma_z y una propabilidad de decaimiento por segundo gamma por medio de simulación Monte Carlo.
+
 - G: intensidad del hamiltoniano.
 - gamma: valor de la propabilidad de decaimiento por unidad de tiempo.
 - T: tiempo total de evolucion.

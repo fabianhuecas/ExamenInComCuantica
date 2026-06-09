@@ -6,7 +6,7 @@
 
 ### Ecuación Lindblad
 
-En el archivo Problema9-2.py se encuentra el programa correspondiente a este problema.
+En el archivo Problema9-1.py se encuentra el programa correspondiente a este problema.
 
 Este programa que desarrolla la evolucion temporal del sistema de un spin con hamiltoniano H = G sigma_z y una propabilidad de decaimiento por segundo gamma según la ecuación de Lindblad. Este programa pide al usuario por pantalla:
 
@@ -17,7 +17,21 @@ Este programa que desarrolla la evolucion temporal del sistema de un spin con ha
 
 El estado inicial se debe escoger modificando la funcion main_lindblad por medio de los coeficientes alpha y beta. El valor actual es de 1/sqrt(2) para ambos.
 
+Los valores de fidelidad con respecto al estado fundamental se guardaron en el archivo fidelidadLindblad.txt.
+
 ### Simulación Monte Carlo
+
+En el archivo Problema9-2.py se encuentra el programa correspondiente a este problema.
+
+- G: intensidad del hamiltoniano.
+- gamma: valor de la propabilidad de decaimiento por unidad de tiempo.
+- T: tiempo total de evolucion.
+- M: número de puntos temporales en el mallado.
+- N: número de trayectorias.
+
+El estado inicial se debe escoger modificando la funcion main_lindblad por medio de los coeficientes alpha y beta. El valor actual es de 1/sqrt(2) para ambos.
+
+Los valores de fidelidad con respecto al estado fundamental se guardaron en el archivo fidelidadMonteCarlo.txt.
 
 ## Problema 10
 

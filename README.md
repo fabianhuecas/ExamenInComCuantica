@@ -4,7 +4,7 @@
 
 En el archivo Problema6.py se encuentra el programa correspondiente a este problema.
 
-Programa para hallar matriz de enlaces de entrelazamiento de un estado puro como el que se incluye en el archivo . 
+Programa para hallar matriz de enlaces de entrelazamiento de un estado puro como el que se incluye en el archivo DatosEjercicio6.txt. 
 
 Dentro del programa está seleccionado el valor de N = 12 spines aunque podría ser modificado para otro caso.
 

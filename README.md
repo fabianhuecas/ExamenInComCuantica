@@ -4,7 +4,7 @@
 
 En el archivo Problema6.py se encuentra el programa correspondiente a este problema.
 
-Este programa representa una forma de obtener un ejemplo concreto para la encriptación RSA. 
+Este programa representa una forma de obtener un ejemplo concreto para la encriptación RSA. En ningún caso representa el procedimiento general.
 
 Si se quiere modificar, se debe cambiar los valores p y q por otros números primos así como el mensaje a enviar.
 

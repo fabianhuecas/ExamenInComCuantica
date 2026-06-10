@@ -16,7 +16,7 @@ Programa para hallar matriz de enlaces de entrelazamiento de un estado puro como
 
 Dentro del programa está seleccionado el valor de N = 12 spines aunque podría ser modificado para otro caso.
 
-La matriz de enlaces de entrelazamiento se genera en el archivo MatrizEnlaces.txt. El tiempo de ejecución puede ser de varios minutos.
+La matriz de enlaces de entrelazamiento se genera en el archivo MatrizEnlaces.txt. El tiempo de ejecución puede ser de mayor de 10 minutos.
 
 ## Problema 9
 
@@ -58,4 +58,4 @@ En el archivo Problema10.py se encuentra el programa correspondiente a este prob
 Este programa que calcula la entropia del bloque de los primeros N/2 spines para un hamiltoniano con termino de interaccion y flip de spines. La intensidad de las interacciones viene dada por una matriz de enlaces J cuyos elementos se generan aleatoreamente. Se realizan un cierto número de realizaciones escogido por el usuario. Se debe seleccionar la intensidad del término de sigma_x, Gamma.
 
 Por pantalla se muestra el valor medio de S_A y su desviacion típica. En el archivo Entropias_S_A.txt se escriben todos los valores de S_A obtenidos para las 
-distintas realizaciones. El tiempo de jecución puede ser de varios minutos.
+distintas realizaciones. El tiempo de ejecución puede ser de varios minutos.

@@ -2,7 +2,7 @@
 
 ## Problema 5
 
-En el archivo Problema6.py se encuentra el programa correspondiente a este problema.
+En el archivo Problema5.py se encuentra el programa correspondiente a este problema.
 
 Este programa representa una forma de obtener un ejemplo concreto para la encriptación RSA. No representa el procedimiento general.
 

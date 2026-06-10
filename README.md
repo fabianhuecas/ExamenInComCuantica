@@ -49,7 +49,7 @@ Este programa desarrolla la evolucion temporal del sistema de un spin con hamilt
 
 El estado inicial se debe escoger modificando la funcion main_lindblad por medio de los coeficientes alpha y beta. El valor actual es de 1/sqrt(2) para ambos.
 
-Los valores de fidelidad con respecto al estado fundamental se guardaron en el archivo fidelidadMonteCarlo.txt.
+Los valores de fidelidad con respecto al estado fundamental se guardaron en el archivo fidelidadMonteCarlo.txt. El tiempo de ejecución puede ser de varios minutos.
 
 ## Problema 10
 
@@ -58,4 +58,4 @@ En el archivo Problema10.py se encuentra el programa correspondiente a este prob
 Este programa que calcula la entropia del bloque de los primeros N/2 spines para un hamiltoniano con termino de interaccion y flip de spines. La intensidad de las interacciones viene dada por una matriz de enlaces J cuyos elementos se generan aleatoreamente. Se realizan un cierto número de realizaciones escogido por el usuario. Se debe seleccionar la intensidad del término de sigma_x, Gamma.
 
 Por pantalla se muestra el valor medio de S_A y su desviacion típica. En el archivo Entropias_S_A.txt se escriben todos los valores de S_A obtenidos para las 
-distintas realizaciones.
+distintas realizaciones. El tiempo de jecución puede ser de varios minutos.

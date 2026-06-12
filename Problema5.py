@@ -1,4 +1,6 @@
 def calcular_mcd(a, b):
+
+    #funcion que halla el maximo comun divisor de dos numeros a y b
     while b != 0:
         a_org = a       
         a = b          
@@ -14,7 +16,7 @@ def llave_secreta(p,q):
 
     aux = (p-1)*(q-1)
 
-    for d in range(200,N): #aqui selecciono que sea uno mayor que d arbitrariamente
+    for d in range(200,N): #aqui selecciono que sea uno mayor que 200 arbitrariamente
     
         mcd = calcular_mcd(d,aux)
     
